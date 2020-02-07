@@ -44,6 +44,9 @@ int Mod2(int a, int b)
 	}
 
 */
+
+
+
 #include <Windows.h>
 #include <ctime>
 
